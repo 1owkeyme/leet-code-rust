@@ -3,6 +3,13 @@
 version = 3
 
 [[package]]
+name = "problem_26"
+version = "0.1.0"
+dependencies = [
+ "solution",
+]
+
+[[package]]
 name = "problem_27"
 version = "0.1.0"
 dependencies = [
